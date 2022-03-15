@@ -142,5 +142,4 @@ if( juego == 3 ){
     console.log(arrayJuegos[7].nombre + " " + "$" + arrayJuegos[7].precio)
     }
 
-
 // German Ariel Becerra
